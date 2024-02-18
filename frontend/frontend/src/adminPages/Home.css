@@ -1,0 +1,10 @@
+img {
+    border-radius: 8px;
+    max-width: auto;
+    max-height: 515px;
+
+  }
+
+  img:hover {
+    transform: scaleX(-1);
+  }
